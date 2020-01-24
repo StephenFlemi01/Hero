@@ -1,0 +1,34 @@
+body{
+	background-color: black
+}
+
+h1{
+font-size: 30px;
+color: green;
+
+}
+
+h2{
+color: red;
+font-size: 20px;
+}
+
+h2{
+color: green
+}
+
+.big{
+font-size: 150%;
+}
+
+.uppercase{
+text-transform: uppercase;
+}
+
+.big.uppercase{
+color: navy;
+}
+
+h1 span{
+color: violet;
+}
